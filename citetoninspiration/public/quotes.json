@@ -1,0 +1,242 @@
+[
+  {
+    "imageSrc": "images/lou_holtz.jpg",
+    "altText": "lou holtz",
+    "quote": "Ne racontez pas vos problèmes à tout le monde : 80% s'en moquent, les 20% restants sont contents que vous les ayez.",
+    "author": "LOU HOLTZ"
+  },
+  {
+    "imageSrc": "images/Albert_Einstein.jpg",
+    "altText": "albert einstein",
+    "quote": "La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre.",
+    "author": "ALBERT EINSTEIN"
+  },
+  {
+    "imageSrc": "images/maya_angelou.png",
+    "altText": "maya angelou",
+    "quote": "Vous ne pouvez pas épuiser la créativité. Plus vous l'utilisez, plus vous en avez.",
+    "author": "MAYA ANGELOU"
+  },
+  {
+    "imageSrc": "images/nelson_mandela.jpeg",
+    "altText": "nelson mandela",
+    "quote": "Cela semble toujours impossible jusqu'à ce que ce soit fait.",
+    "author": "NELSON MANDELA"
+  },
+  {
+    "imageSrc": "images/steveJobs.jpeg",
+    "altText": "steve jobs",
+    "quote": "Votre temps est limité, ne le gâchez pas en vivant la vie de quelqu'un d'autre.",
+    "author": "STEVE JOBS"
+  },
+  {
+    "imageSrc": "images/Bruce_Lee.jpg",
+    "altText": "bruce lee",
+    "quote": "Le succès n'est pas un accident. C'est du travail acharné, de la persévérance, de l'apprentissage, de l'étude, du sacrifice et surtout, de l'amour de ce que vous faites ou apprenez à faire.",
+    "author": "BRUCE LEE"
+  },
+  {
+    "imageSrc": "images/elon_musk.webp",
+    "altText": "elon musk",
+    "quote": "Quand quelque chose est important assez, vous le faites même si les chances ne sont pas en votre faveur.",
+    "author": "ELON MUSK"
+  },
+  {
+    "imageSrc": "images/jack_ma.jpeg",
+    "altText": "jack ma",
+    "quote": "Je ne suis pas un fan de la culture, mais je suis un fan de la création.",
+    "author": "JACK MA"
+  },
+  {
+    "imageSrc": "images/jeff_bezos.Webp",
+    "altText": "jeff bezos",
+    "quote": "Si vous ne pouvez pas tolérer les critiques, ne faites rien de nouveau ou d'intéressant.",
+    "author": "JEFF BEZOS"
+  },
+  {
+    "imageSrc": "images/antoine_saint_exupery.jpeg",
+    "altText": "antoine de saint-exupéry",
+    "quote": "Faites de votre vie un rêve, et d'un rêve, une réalité.",
+    "author": "ANTOINE DE SAINT-EXUPÉRY"
+  },
+  {
+    "imageSrc": "images/brad-pitt.jpg",
+    "altText": "brad pitt",
+    "quote": "Le succès est un mauvais professeur. Il pousse les gens intelligents à croire qu'ils ne peuvent pas perdre.",
+    "author": "BRAD PITT"
+  },
+  {
+    "imageSrc": "images/Oscar_Wilde.jpg",
+    "altText": "oscar wilde",
+    "quote": "Soyez vous-même, les autres sont déjà pris.",
+    "author": "OSCAR WILDE"
+  },
+  {
+    "imageSrc": "images/nelson_mandela.jpeg",
+    "altText": "nelson mandela",
+    "quote": "Le courage n'est pas l'absence de peur, mais la capacité de vaincre ce qui fait peur",
+    "author": "NELSON MANDELA"
+  },
+  {
+    "imageSrc": "images/bruce_lee.jpg",
+    "altText": "bruce lee",
+    "quote": "Si vous passez trop de temps à penser à une chose, vous ne la ferez jamais.",
+    "author": "BRUCE LEE"
+  },
+  {
+    "imageSrc": "images/martin_luther_king.jpeg",
+    "altText": "Martin Luther King",
+    "quote": "Celui qui accepte le mal sans lutter contre lui coopère avec lui.",
+    "author": "MARTIN LUTHER KING"
+  },
+  {
+    "imageSrc": "images/confucius.jpg",
+    "altText": "Confucius",
+    "author": "Confucius",
+    "quote": "La plus grande gloire n'est pas de ne jamais tomber, mais de se relever à chaque chute."
+  },
+  {
+    "imageSrc": "images/Anna_Eleanor_Roosevelt.jpg",
+    "altText": "Eleanor Roosevelt",
+    "author": "Eleanor Roosevelt",
+    "quote": "Personne ne peut vous faire sentir inférieur sans votre consentement."
+  },
+  {
+    "imageSrc": "images/lao-tseu.jpg",
+    "altText": "Lao Tseu",
+    "author": "Lao Tseu",
+    "quote": "Un voyage de mille lieues commence toujours par un premier pas."
+  },
+  {
+    "imageSrc": "images/Ghandi.jpeg",
+    "altText": "Mahatma Gandhi",
+    "author": "Mahatma Gandhi",
+    "quote": "Soyez le changement que vous voulez voir dans le monde."
+  },
+  {
+    "imageSrc": "images/Aristote.jpeg",
+    "altText": "Aristote",
+    "author": "Aristote",
+    "quote": "L'excellence est un art gagné par l'entraînement et l'habitude. Nous sommes ce que nous faisons de façon répétée."
+  },
+  {
+    "imageSrc": "images/Paulo-Coelho.webp",
+    "altText": "Paulo Coelho",
+    "author": "Paulo Coelho",
+    "quote": "Quand tu veux quelque chose, tout l'univers conspire à te permettre de réaliser ton désir."
+  },
+  {
+    "imageSrc": "images/Seneque.png",
+    "altText": "Sénèque",
+    "author": "Sénèque",
+    "quote": "Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, mais parce que nous n'osons pas qu'elles sont difficiles."
+  },
+  {
+    "imageSrc": "images/Hellen_Keller.jpeg",
+    "altText": "Helen Keller",
+    "author": "Helen Keller",
+    "quote": "La vie est une aventure audacieuse ou elle n'est rien."
+  },
+  {
+    "imageSrc": "images/Vincent_van_gogh.jpeg",
+    "altText": "Vincent Van Gogh",
+    "author": "Vincent Van Gogh",
+    "quote": "Je rêve mes tableaux, et ensuite je peins mes rêves."
+  },
+  {
+    "imageSrc": "images/Albert_schweitzer.jpeg",
+    "altText": "Albert Schweitzer",
+    "author": "Albert Schweitzer",
+    "quote": "Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès. Si vous aimez ce que vous faites, vous réussirez."
+  },
+  {
+    "imageSrc": "images/Albert_Einstein.jpg",
+    "altText": "Albert Einstein",
+    "author": "Albert Einstein",
+    "quote": "L'homme ne peut pas se tromper. Il peut seulement trouver des chemins qui ne aboutissent pas."
+  },
+  {
+    "imageSrc": "images/mother_teresa.jpg",
+    "altText": "Mère Teresa",
+    "quote": "Ne laissez personne venir à vous et repartir sans être plus heureux.",
+    "author": "MÈRE TERESA"
+  },
+  {
+    "imageSrc": "images/leonardo_da_vinci.jpg",
+    "altText": "Leonardo da Vinci",
+    "quote": "La simplicité est la sophistication ultime.",
+    "author": "LEONARDO DA VINCI"
+  },
+  {
+    "imageSrc": "images/henry_ford.jpg",
+    "altText": "Henry Ford",
+    "quote": "Que vous pensiez pouvoir ou non, vous avez raison.",
+    "author": "HENRY FORD"
+  },
+  {
+    "imageSrc": "images/marc_aurele.webp",
+    "altText": "Marc Aurèle",
+    "quote": "La vraie mesure de la richesse, c'est de ne pas avoir besoin d'augmentation.",
+    "author": "MARC AURÈLE"
+  },
+  {
+    "imageSrc": "images/ralph_waldo_emerson.jpg",
+    "altText": "Ralph Waldo Emerson",
+    "quote": "Ne suivez pas où le chemin peut mener. Allez où il n'y a pas de chemin et laissez une trace.",
+    "author": "RALPH WALDO EMERSON"
+  },
+  {
+    "imageSrc": "images/francis_bacon.jpg",
+    "altText": "Francis Bacon",
+    "quote": "La connaissance est en elle-même pouvoir.",
+    "author": "FRANCIS BACON"
+  },
+  {
+    "imageSrc": "images/epictete.jpeg",
+    "altText": "Epictète",
+    "quote": "Ce ne sont pas les événements qui troublent les hommes, mais leurs jugements sur ces événements.",
+    "author": "EPICTÈTE"
+  },
+  {
+    "imageSrc": "images/henry_david_thoreau.jpeg",
+    "altText": "Henry David Thoreau",
+    "quote": "Allez avec confiance dans la direction de vos rêves. Vivez la vie que vous avez imaginée.",
+    "author": "HENRY DAVID THOREAU"
+  },
+  {
+    "imageSrc": "images/victor_hugo.jpeg",
+    "altText": "Victor Hugo",
+    "quote": "La liberté commence où l'ignorance finit.",
+    "author": "VICTOR HUGO"
+  },
+  {
+    "imageSrc": "images/carl_jung.png",
+    "altText": "Carl Jung",
+    "quote": "Qui regarde à l'extérieur rêve ; qui regarde à l'intérieur s'éveille.",
+    "author": "CARL JUNG"
+  },
+  {
+    "imageSrc": "images/benjamin_franklin.jpeg",
+    "altText": "Benjamin Franklin",
+    "quote": "Un investissement dans le savoir paie toujours les meilleurs intérêts.",
+    "author": "BENJAMIN FRANKLIN"
+  },
+  {
+    "imageSrc": "images/dalai_lama.jpg",
+    "altText": "Dalai Lama",
+    "quote": "Le bonheur n'est pas quelque chose de prêt à l'emploi. Il vient de vos propres actions.",
+    "author": "DALAI LAMA"
+  },
+  {
+    "imageSrc": "images/winston_churchill.jpg",
+    "altText": "Winston Churchill",
+    "quote": "Le succès n'est pas final, l'échec n'est pas fatal : c'est le courage de continuer qui compte.",
+    "author": "WINSTON CHURCHILL"
+  },
+  {
+    "imageSrc": "images/jim_rohn.jpg",
+    "altText": "Jim Rohn",
+    "quote": "La discipline est le pont entre les objectifs et l'accomplissement.",
+    "author": "JIM ROHN"
+  }
+]

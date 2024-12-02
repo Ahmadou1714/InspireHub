@@ -1,19 +1,17 @@
-import React, { useEffect, useState } from "react";
-import { IonIcon } from "@ionic/react";
-import { sunny, moon } from "ionicons/icons";
+import React from 'react';
+import { useTheme } from '../context/ThemeContext';
+import { FaSun, FaMoon } from 'react-icons/fa';
+
 export default function DarkMode() {
-  const [currentTheme, setCurrentTheme] = useState("light");
+  const { isDarkMode, toggleTheme } = useTheme();
 
-  useEffect(() => {
-    document.body.dataset.theme = currentTheme;
-  }, [currentTheme]);
-
-  const handleThemeToggle = () => {
-    setCurrentTheme(currentTheme === "light" ? "dark" : "light");
-  };
   return (
-    <button className="theme-toggle" onClick={handleThemeToggle}>
-      {currentTheme === "light" ? <IonIcon icon={sunny} /> : <IonIcon icon={moon} />}
+    <button 
+      onClick={toggleTheme}
+      className="theme-toggle"
+      aria-label={isDarkMode ? 'Activer le mode clair' : 'Activer le mode sombre'}
+    >
+      {isDarkMode ? <FaSun /> : <FaMoon />}
     </button>
   );
 }

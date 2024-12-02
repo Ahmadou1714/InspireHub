@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useCallback, useRef } from "react";
 import Section from "./Section";
 import { useInfiniteScroll } from "../hooks/useInfiniteScroll";
+import SkeletonLoader from "./SkeletonLoader";
 
 export default function QuoteList({ quotes }) {
   const [quotesData, setQuotesData] = useState([]);
@@ -42,7 +43,7 @@ export default function QuoteList({ quotes }) {
   }, [isLoading, hasMore, loadMore]);
 
   if (isInitialLoading) {
-    return <div className="loading">Chargement des citations...</div>;
+    return <SkeletonLoader />;
   }
 
   if (isError) {
@@ -61,7 +62,11 @@ export default function QuoteList({ quotes }) {
           author={quote.author}
         />
       ))}
-      {isLoading && <div className="loading">Chargement...</div>}
+      {isLoading && (
+        <div className="w-full col-span-full">
+          <SkeletonLoader />
+        </div>
+      )}
     </div>
   );
 }

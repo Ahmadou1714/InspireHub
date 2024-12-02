@@ -1,11 +1,12 @@
-import Lenis from 'lenis';
-import React, { useEffect, useState } from 'react';
-import './App.css';
-import Footer from './components/Footer';
-import Header from './components/Header';
-import QuoteList from './components/QuoteList';
-import ScrollToTopButton from './components/ScrollTopButton';
-import { ThemeProvider, useTheme } from './context/ThemeContext';
+import Lenis from "lenis";
+import React, { useEffect, useState } from "react";
+import "./App.css";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import QuoteList from "./components/QuoteList";
+import ScrollToTopButton from "./components/ScrollTopButton";
+import { ThemeProvider, useTheme } from "./context/ThemeContext";
+import { AuthProvider } from "./context/AuthContext";
 
 function AppContent() {
   const [filteredQuotes, setFilteredQuotes] = useState([]);
@@ -23,7 +24,7 @@ function AppContent() {
   }, []);
 
   return (
-    <div className={`container ${isDarkMode ? 'dark-mode' : ''}`}>
+    <div className={`container ${isDarkMode ? "dark-mode" : ""}`}>
       <Header setFilteredQuotes={setFilteredQuotes} />
       <QuoteList quotes={filteredQuotes} />
       <Footer />
@@ -34,9 +35,11 @@ function AppContent() {
 
 function App() {
   return (
-    <ThemeProvider>
-      <AppContent />
-    </ThemeProvider>
+    <AuthProvider>
+      <ThemeProvider>
+        <AppContent />
+      </ThemeProvider>
+    </AuthProvider>
   );
 }
 

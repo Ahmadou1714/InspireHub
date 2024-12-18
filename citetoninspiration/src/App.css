@@ -12,7 +12,7 @@
   --accent-color: #d5d5d5;
 }
 
-[data-theme="dark"] {
+[data-theme='dark'] {
   --primary-bg: #222;
   --secondary-bg: #444;
   --text-light: #ddd;
@@ -120,15 +120,18 @@ header {
 .theme-toggle {
   background: none;
   border: none;
-  padding: 8px;
-  cursor: pointer;
   font-size: 1.5rem;
   color: inherit;
+  cursor: pointer;
+  padding: 8px 16px;
+  border-radius: 20px;
+  transition: background-color 0.3s ease;
   transition: transform 0.2s ease;
 }
 
 .theme-toggle:hover {
   transform: scale(1.1);
+  background-color: rgba(0, 0, 0, 0.05);
 }
 
 .dark-mode .theme-toggle {
@@ -301,7 +304,7 @@ footer p {
 }
 
 .loading::after {
-  content: "";
+  content: '';
   width: 20px;
   height: 20px;
   margin-left: 10px;

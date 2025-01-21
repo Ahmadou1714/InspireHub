@@ -74,7 +74,7 @@ Entrez des mots-clés dans la barre de recherche pour trouver des citations cont
 Cliquez sur les icônes interactives pour :
 
 - **Aimer** vos citations préférées.
-- **Télécharger** la citation sous forme d’image.
+- **Télécharger** la citation.
 
 ## 🖼️ Aperçu
 
@@ -103,11 +103,5 @@ Les contributions sont les bienvenues ! Pour contribuer :
 3. **Commit** vos modifications (`git commit -m 'Ajouter une nouvelle fonctionnalité'`).
 4. **Push** la branche (`git push origin nouvelle-fonctionnalite`).
 5. Ouvrez une **pull request**.
-
-## 📄 Licence
-
-Ce projet est sous licence [MIT](LICENSE).
-
----
 
 **InspireHub** – Car chaque journée mérite une touche d'inspiration ! 🌞

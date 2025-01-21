@@ -125,13 +125,14 @@ header {
   cursor: pointer;
   padding: 8px 16px;
   border-radius: 20px;
+  color: #ffffff;
   transition: background-color 0.3s ease;
   transition: transform 0.2s ease;
 }
 
 .theme-toggle:hover {
   transform: scale(1.1);
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .dark-mode .theme-toggle {
@@ -273,7 +274,8 @@ footer p {
 }
 
 .dark-mode {
-  background-color: #1a1a1a;
+  /* background-color: #1a1a1a; */
+  background-color: #2d2d2d;
   /* color: #ffffff; */
   color: #333333;
 }
@@ -377,8 +379,16 @@ footer p {
   font-size: 1.5rem;
 }
 
-.profile-button:hover {
+/* .profile-button:hover {
   background-color: rgba(0, 0, 0, 0.05);
+} */
+
+.profile-button {
+  color: #ffffff;
+}
+
+.profile-button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .dark-mode .profile-button {

@@ -10,7 +10,7 @@ export default function SearchBar({ setFilteredQuotes }) {
     fetch("/quotes.json")
       .then((response) => response.json())
       .then((data) => setQuotes(data))
-      .catch((error) => console.error("Erreur de chargement des citations :", error));
+      .catch((error) => console.error("Erreur de chargement des citations :", error));
   }, []);
 
   const handleFilter = (event) => {
